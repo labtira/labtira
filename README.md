@@ -9,7 +9,6 @@ My name is Mehdi labtira i'm a computer engineer with a passion for developing i
 * 🌍  I'm based in Casablanca
 * 🖥️  See my portfolio at [Mehdi Labtira](http://labtira.com)
 * ✉️  You can contact me at [mehdi.lbtira@gmail.com](mailto:mehdi.lbtira@gmail.com)
-* 🧠  I'm learning React JS and Node JS
 
 ### Skills
 
