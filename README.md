@@ -34,10 +34,10 @@ My name is Mehdi labtira i'm a computer engineer with a passion for developing i
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                     </p>
                     
-                  ### Socials
+                    ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                           
                       <a href="https://discord.com/users/MΞHDI#3960" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
                           
@@ -56,3 +56,5 @@ My name is Mehdi labtira i'm a computer engineer with a passion for developing i
                       <a href="https://www.twitter.com/MLabtira" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
                       href="http://www.github.com/labtira"><img src="https://activity-graph.herokuapp.com/graph?username=labtira&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>### Support Me<a
                   href="https://www.buymeacoffee.com/labtira"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
